@@ -1,0 +1,13 @@
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\ChatDemoAPI.exe
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\ChatDemoAPI.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\ChatDemoAPI.deps.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\ChatDemoAPI.runtimeconfig.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\ChatDemoAPI.pdb
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\ChatDemoAPI\obj\Debug\net8.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll

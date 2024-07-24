@@ -1,0 +1,20 @@
+name: dockercompose11643615064738976310
+services:
+  chatdemoapi:
+    build:
+      context: C:\ETZ\Blazor\Test\ChatDemoAPI
+      dockerfile: ChatDemoAPI\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8000"
+    image: chatdemoapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose11643615064738976310_default

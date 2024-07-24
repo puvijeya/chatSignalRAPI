@@ -1,0 +1,14 @@
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\ChatDemoAPI.deps.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\ChatDemoAPI.runtimeconfig.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\appsettings.Development.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\appsettings.json
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\ChatDemoAPI.exe
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\ChatDemoAPI.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\Microsoft.OpenApi.dll
+C:\ETZ\Blazor\Test\ChatDemoAPI\bin\Debug\ChatDemoAPI.pdb
+C:\ETZ\Blazor\Test\ChatDemoAPI\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\ETZ\Blazor\Test\ChatDemoAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\ETZ\Blazor\Test\ChatDemoAPI\obj\Debug\docker-c.35A3FFBA.Up2Date

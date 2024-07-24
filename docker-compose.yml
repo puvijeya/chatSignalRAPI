@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  chatdemoapi:
+    image: ${DOCKER_REGISTRY-}chatdemoapi
+    build:
+      context: .
+      dockerfile: ChatDemoAPI\Dockerfile

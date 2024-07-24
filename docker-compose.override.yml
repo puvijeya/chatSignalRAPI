@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  chatdemoapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8000
+    ports:
+      - "8000:8000"
